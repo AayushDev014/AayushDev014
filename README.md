@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 ```javascript
-const aayush = {
+const CrazyDeveloper = {
   name: "Aayush Patel",
   location: "Surat, Gujarat, India 🇮🇳",
   pronouns: ["he", "him"],
