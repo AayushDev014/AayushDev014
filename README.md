@@ -77,7 +77,7 @@ Here are a few of my favorite projects:
 * 📝 **Offline ToDo** – Works offline with SQLite and syncs to Firebase
 * 💡 **ZenAI** – AI-powered chat app using Gemini API
 * 🎯 **EMI Calculator** – Simple calculator with history tracking
-* ✨ **QuoteVerse** – Quote app with categories, favorites, and custom backgrounds
+* ✨ **Quotify** – Quote app with categories, favorites, and custom backgrounds
 
 ---
 
